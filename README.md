@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://codewithaisosa.vercel.app/](https://codewithaisosa.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://codewithaisosa.vercel.app/](https://aisosa.vercel.app/)
 
 - 📫 How to reach me **codewithaisosa@gmail.com**
 
